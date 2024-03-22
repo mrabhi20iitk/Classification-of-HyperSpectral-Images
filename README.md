@@ -2,7 +2,7 @@
  Classification of Hyperspectral Images using multiple modelling techniques
 This program takes two input : 
 1. Hyperspectral Image Dataset File
-2. Ground Truth File in form of .mat (bianry MATLAB files)
+2. Ground Truth File in form of .mat (binary MATLAB files)
 
 Datasets can be found here : http://lesun.weebly.com/hyperspectral-data-set.html
 
