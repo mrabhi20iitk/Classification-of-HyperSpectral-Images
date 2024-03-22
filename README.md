@@ -17,4 +17,8 @@ Featurers of this program:
    
 ![Screenshot 2023-12-24 141644](https://github.com/mrabhi20iitk/Classification-of-HyperSpectral-Images/assets/85969105/9943c8e6-d65c-4c4b-bb84-6b72dbc9443b)
 
-GUI made using Tkinter library
+                                                        GUI made using Tkinter library
+
+Classes description present in our dataset:
+![8164724_orig](https://github.com/mrabhi20iitk/Classification-of-HyperSpectral-Images/assets/85969105/74170e1c-178f-4343-b8bc-6e9b3a711186)
+
