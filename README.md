@@ -19,6 +19,6 @@ Featurers of this program:
 
                                                         GUI made using Tkinter library
 
-Classes description present in our dataset:
+                                                   Classes description present in our dataset:
 ![8164724_orig](https://github.com/mrabhi20iitk/Classification-of-HyperSpectral-Images/assets/85969105/74170e1c-178f-4343-b8bc-6e9b3a711186)
 
